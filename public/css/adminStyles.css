@@ -1,0 +1,15 @@
+body {
+  max-width: 1200px;
+}
+#btnNav{
+  background:#4FA9FF;
+  color:#fff;
+}
+#btnNav:hover, #btnNav:active{
+  background:#40A0FB;
+  color:#fff;
+}
+img {
+  margin: 20px;
+  width: 90%;
+}
