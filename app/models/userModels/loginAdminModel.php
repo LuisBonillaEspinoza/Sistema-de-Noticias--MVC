@@ -8,7 +8,6 @@ class LoginAdminModel extends Model {
   
   public function verifyAdmin($user, $pass){
     if(isset($_POST['sendLogin'])){
-      
       if($user==constant('admin') || $pass==constant('pass')){
         session_start();
         $_SESSION["Admin"] = $user;

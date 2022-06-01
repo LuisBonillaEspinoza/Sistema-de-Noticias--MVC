@@ -12,5 +12,4 @@
   define('PASSWORD', '');
   define('CHARSET', 'utf8');
 
-
 ?>

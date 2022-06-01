@@ -9,7 +9,7 @@
 ?>
 <section class="container mt-5">
   <div>
-	  <h3>Recent News - Home</h3>
+	  <h3>ZzZzZzZzZ</h3>
 	</div><hr>
   <div class="row justify-content-center">
     <div class="col-md-10">
