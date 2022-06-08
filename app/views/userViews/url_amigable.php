@@ -5,7 +5,7 @@ function url_amigable($url){
 
     $find = array('á','é','í','ó','ú','ñ');
 
-    $repl = array('a','e','i','o','u','ñ');
+    $repl = array('a','e','i','o','u','n');
 
     $url = str_replace ($find, $repl, $url);
 

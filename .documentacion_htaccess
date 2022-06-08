@@ -1,0 +1,5 @@
+RewriteRule ^([a-zA-Z0-9-_/]+)$ index.php?url=$1 [QSA,L]
+a-z = letras desde la a-z en minusculas
+A-Z = letras de la A-Z en mayusculas
+0-9 = numeros del 0-9
+_ = espacio entre las palabras
